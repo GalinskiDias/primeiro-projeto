@@ -1,0 +1,8 @@
+Data,Vendedor,Produto,Preco,Quantidade,Regiao
+2026-01-10,Ana,Notebook,3500,2,Sul
+2026-01-11,Bruno,Mouse,80,5,Norte
+2026-01-12,Carlos,Teclado,150,3,Sul
+2026-01-12,Ana,Monitor,1200,1,Sul
+2026-01-13,Bruno,Notebook,3500,1,Norte
+2026-01-14,Carlos,Mouse,80,10,Sul
+2026-01-15,Ana,Teclado,150,4,Sul
